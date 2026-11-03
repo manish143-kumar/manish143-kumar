@@ -148,7 +148,8 @@ I focus on answering practical business questions such as:
 
 📸 **Instagram:** [@prajapati_manish_7](https://instagram.com/prajapati_manish_7)
 
----
+---Leetcode:- manishkumar_mkp
+
 
 ### 💡 "Turning data into insights, and insights into better decisions."
 
