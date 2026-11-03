@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **manishkumar200206@gmail.com** For Collaboration/Project o
 
 - 🔭 **I’m currently working on:** Dashboard
 - 🌱 **I’m currently learning:** Power-BI
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** manishkumar200206@gmail.com
 - 😄 **Pronouns:** manish
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
